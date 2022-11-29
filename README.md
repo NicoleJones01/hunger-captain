@@ -28,7 +28,7 @@ Check out [API LIVE DEMO](https://sd-backend.saviseui.repl.co) here!!
 
 ## How to Install
 
-1. Git Clone https://github.com/Rabeel90/Hunger-Captain.git
+1. Git Clone https://github.com/NicoleJones01/hunger-captain.git
 
 ```
 git clone 
